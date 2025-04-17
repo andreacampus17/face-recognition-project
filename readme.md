@@ -54,4 +54,4 @@ Questo progetto utilizza tecniche di riconoscimento facciale e calcolo delle som
 
 1. Clona il repository:
    ```bash
-   git clone https://github.com/tuo-username/face-recognition-project.git
+   git clone https://github.com/andreacampus17/face-recognition-project.git
